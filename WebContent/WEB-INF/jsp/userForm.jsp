@@ -36,11 +36,13 @@
 				<form:option value="1" label="India" />
 				<form:option value="2" label="USA" />
 				<form:option value="3" label="UK" />
-				<form:option value="4" label="Australia" />
-				<form:option value="5" label="Japan" />
-				<form:option value="6" label="Dubai" />
-				<form:option value="7" label="South Africa" />
-				<form:option value="8" label="Russia" />
+				<form:option value="4" label="Germany" />
+				<form:option value="5" label="Sweden" />
+				<form:option value="6" label="Australia" />
+				<form:option value="7" label="Japan" />
+				<form:option value="8" label="Dubai" />
+				<form:option value="9" label="South Africa" />
+				<form:option value="10" label="Russia" />
 			</form:select></td>
 		</tr>
 		<tr>
